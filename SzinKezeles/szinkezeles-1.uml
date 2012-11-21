@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_osL0kDO8EeK5AIJj5y_gHQ">
+  <packagedElement xmi:type="uml:Device" xmi:id="_Cb1poDO9EeK5AIJj5y_gHQ"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_1mPQMDO8EeK5AIJj5y_gHQ">
+    <nestedClassifier xmi:type="uml:Actor" xmi:id="_Ei41sDO9EeK5AIJj5y_gHQ"/>
+    <nestedClassifier xmi:type="uml:Class" xmi:id="_DfI5sDO9EeK5AIJj5y_gHQ">
+      <nestedClassifier xmi:type="uml:Class" xmi:id="_DKA-QDO9EeK5AIJj5y_gHQ">
+        <nestedClassifier xmi:type="uml:Actor" xmi:id="__GeQUDO8EeK5AIJj5y_gHQ"/>
+      </nestedClassifier>
+    </nestedClassifier>
+  </packagedElement>
+</uml:Model>
